@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Priyanka Kutiyare.
--  Pursuing bachelor degree at National Institute of Technology, Tiruchirappalli (NITT)
+- 🎓 Pursuing bachelor degree at National Institute of Technology, Tiruchirappalli (NITT)
 - 👀 I’m interested in Web development and graphic designing 
 - 🌱 I’m currently learning Web development (javascript)
 - 📫 How to reach me priyankakutiyare22@gmail.com
