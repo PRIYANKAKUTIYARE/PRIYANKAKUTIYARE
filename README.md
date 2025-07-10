@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Priyanka Kutiyare.
-- 🎓 Pursuing bachelor degree at National Institute of Technology, Tiruchirappalli (NITT)
+- 🎓 Pursuing bachelor degree at National Institute of Technology, Tiruchirappalli (NITT) Majoring in Electrical And Electronic Engineering.
 - 👀 I’m interested in Web development and graphic designing 
 - 🌱 I’m currently learning Web development (javascript)
 - 📫 How to reach me priyankakutiyare22@gmail.com
-- 
+- Batch - 2026
 
 <!---
 PRIYANKAKUTIYARE/PRIYANKAKUTIYARE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
